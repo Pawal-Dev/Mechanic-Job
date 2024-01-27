@@ -1,0 +1,25 @@
+	["repairkit"] = {
+		label = "Kit de réparation",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+	["cleankit"] = {
+		label = "Kit de nettoyage",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+	["ferraille"] = {
+		label = "Ferraille",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["acier"] = {
+		label = "Acier",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
